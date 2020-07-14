@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="">
+<img align="right" width="400" height="400" src="https://raw.githubusercontent.com/ZeusMode/zeusmode/master/profile.jpg">
 
 
 # Oi, sou Wesley Nascimento 🙃
