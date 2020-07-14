@@ -3,7 +3,7 @@
 
 # Oi, sou Wesley Nascimento 🙃
 
-Uma vez precisei me descrever e depois de alguns minutos, isso era o que estava no bloco de notas: Programador por profissão e empreendedor por paixão. Engenheiro de software. Bacharel em sistemas de informação e especialização em desenvolvimento de software. Programador raiz que só comenta o código quando é gambiarra.
+Programador por profissão e empreendedor por paixão. Engenheiro de software. Bacharel em sistemas de informação e especialização em desenvolvimento de software. Programador raiz que só comenta o código quando é gambiarra.
 
 ## Sobre mim
 
