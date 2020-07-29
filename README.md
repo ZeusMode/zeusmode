@@ -5,14 +5,14 @@
 
 Programador por profissão e empreendedor por paixão. Engenheiro de software. Bacharel em sistemas de informação e especialização em desenvolvimento de software. Programador raiz que só comenta o código quando é gambiarra.
 
+- 🌎 São Paulo - Brasil
+- 🎶 Rock & Roll
+
 ## Sobre mim
 
 Além dos meus interesses em computação, engenharia, hacking… aqui estão outras coisas
 
 ❤️ Meu filho | 🌎 Viajar | 🎮 PS4 | 🧑🏻‍💻 Arduino
-
-- 🌎 São Paulo - Brasil
-- 🎶 Rock & Roll
 
 
 ## Social media :mailbox_with_no_mail:
