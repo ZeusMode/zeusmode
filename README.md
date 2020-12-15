@@ -12,7 +12,7 @@ Programador por profissão e empreendedor por paixão. Engenheiro de software. B
 
 Além dos meus interesses em computação, engenharia, hacking… aqui estão outras coisas
 
-❤️ Meu filho | 🌎 Viajar | 🎮 PS4 | 🧑🏻‍💻 Arduino
+❤️ Meu filho | 🌎 Viajar | 🎮 PS5 | 🧑🏻‍💻 Arduino
 
 
 ## Social media :mailbox_with_no_mail:
