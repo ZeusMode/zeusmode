@@ -1,6 +1,3 @@
-<img align="right" width="400" height="400" src="https://raw.githubusercontent.com/ZeusMode/zeusmode/master/profile.jpg">
-
-
 # Oi, sou Wesley Nascimento 🙃
 
 Programador por profissão e empreendedor por paixão. Engenheiro de software. Bacharel em sistemas de informação e especialização em desenvolvimento de software. Programador raiz que só comenta o código quando é gambiarra.
